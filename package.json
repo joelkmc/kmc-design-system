@@ -25,7 +25,7 @@
     "lint:fix": "eslint --fix 'src/**/*.{js,jsx,ts,tsx,json}'",
     "format": "prettier --write 'src/**/*.{js,jsx,ts,tsx,css,md,json}' --config ./.prettierrc",
     "prepare": "husky install",
-    "test:ci": "CI=true react-scripts test"
+    "test:ci": "react-scripts test"
   },
   "eslintConfig": {
     "extends": [
