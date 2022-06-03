@@ -1,10 +1,9 @@
 import React from 'react'
-import './App.css'
 
 function App() {
   return (
     <div className='App'>
-      <p>learn react</p>
+      <p className='p-10 bg-red-300'>learn react</p>
     </div>
   )
 }
