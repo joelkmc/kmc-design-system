@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "license": "MIT",
   "main": "dist/index.js",
-  "private": true,
+  "private": false,
   "repository": "https://github.com/joelkmc/kmc-design-system",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
@@ -104,5 +104,5 @@
       "prettier --write"
     ]
   },
-  "author": "joelcabagua <cabagua.joel@gmail.com>"
+  "author": "jhon.cabagua@kmc.solutions"
 }
