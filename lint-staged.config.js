@@ -1,4 +1,5 @@
-export default {
+/* eslint-disable no-undef */
+module.exports = {
   // this will check Typescript files
   '**/*.(ts|tsx)': () => 'yarn tsc --noEmit',
 
